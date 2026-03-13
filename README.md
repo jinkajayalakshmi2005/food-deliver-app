@@ -37,15 +37,6 @@ Food-Delivery-App
      burger.jpg
      pasta.jpg
      sandwich.jpg
-# How to Run the Project
-
-Download or clone the repository.
-
-Open the project folder.
-
-Double-click index.html.
-
-The application will open in your web browser.
 
 # Learning Outcomes
 
